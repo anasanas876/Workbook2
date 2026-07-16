@@ -1,0 +1,19 @@
+#Task 4
+
+Path Paremeters:
+
+Path Parameter identify the exact location of a specific resource on server. It returns an error if a specified resource is not found. It is directly put in url body followed by forward slashes. Example:http://123, (Here 123 specifies a specific resource on the server)
+
+Query Parameters sort or filter the resource on the server. They return 200 code (Request OK) even if resource does not exist. It returns an empty list if resource does not exist there. It is put at the end of url followed by ?. Example: http://123?color=lue&size=medium. Here it returns a resource 123 with blue color and medium size.
+
+
+# Task 5
+
+Stateless Mean: Stateless means that the server treats every request  independently. Every request is independent of previous request and should contain all necessary infomation to identify the resource.
+
+
+
+
+
+
+

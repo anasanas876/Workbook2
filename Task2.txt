@@ -1,0 +1,17 @@
+# Task 2
+
+Matching Status Codes to their Meanings:
+
+200 Status code indicates request succeeded and it returned requested data.
+
+201 status code indicates request succeeded and a new resource or data was created successfully.
+
+400 Code indicates that server can not understand the user or browser request. Known as bad request.
+
+401 Code indicates unauthorized request. It means the person trying to access the resources is un authorized. It occurs when credentials are not valid.
+
+403 code indicates forbidden request. It means that Person trying to access the resource have not permission to se access those resources.
+
+404 code indicates Not Found Error. It means the server could not find requested resource.
+
+500 code error indicates there is problem on server side.

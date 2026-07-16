@@ -1,0 +1,13 @@
+# Task 1
+
+List what GET, POST, PUT, PATCH and DELETE are each used for:
+
+GET is HTTP request used to get data from the server.
+
+POST is HTTP request which asks server to create a new data.
+
+PUT is HTTP request used to modify the existing data or resource.
+
+PATCH is HTTP request used to partially modify an existing resource. It does not modify the resource completly. It changes only a part of resource.
+
+DELETE is HTTP request used to delete any data from server.
